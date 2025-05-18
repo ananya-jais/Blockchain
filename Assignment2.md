@@ -27,7 +27,7 @@ echo "File 2 content" > myfolder/file2.txt
 
     ![WhatsApp Image 2025-04-09 at 22 34 30_33f03901](https://github.com/user-attachments/assets/9ef52b9d-b75f-4eef-9b0e-4e886e64cf26)
 ![WhatsApp Image 2025-04-09 at 22 37 42_2fe91985](https://github.com/user-attachments/assets/1f1f1157-18e9-49bd-ad64-a521f22a85b4)
-![WhatsApp Image 2025-04-09 at 22 34 24_8c351965](https://github.com/user-attachments/assets/af9ef5c3-7a08-4d3c-9082-dea2c790dd93)
+![image](https://github.com/user-attachments/assets/28899af9-abc9-4e95-986b-beeff73f8413)
 ![WhatsApp Image 2025-04-09 at 22 35 03_6e97179d](https://github.com/user-attachments/assets/020d71e8-801b-4da0-b05c-d5834f6272d8)
 ![WhatsApp Image 2025-04-09 at 22 35 21_7fb33d43](https://github.com/user-attachments/assets/68e038c0-5f95-4428-9a4d-c3cdab4ab5dd)
 ![WhatsApp Image 2025-04-09 at 22 38 04_2adbbc1b](https://github.com/user-attachments/assets/583aaa18-2e6e-4773-88b5-f00e7020a5e3)
